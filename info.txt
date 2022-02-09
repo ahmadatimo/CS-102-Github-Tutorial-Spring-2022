@@ -1,2 +1,0 @@
-hello , this is file is called "info.txt"
-Ahmed Haikal - 22001482 - https://github.com/ahmadatimo
